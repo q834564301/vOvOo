@@ -1,6 +1,6 @@
 {
   "rewrites": [{
     "source": "/(.*)",
-    "destination": "https://afobddud.ap-northeast-1.clawcloudrun.com/$1"
+    "destination": "https://n8n-zhptqonu.ap-northeast-1.clawcloudrun.com/$1"
   }]
 }
